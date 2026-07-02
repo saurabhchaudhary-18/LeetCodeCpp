@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0048-rotate-image) |
+| [3894-traffic-signal-color](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3908-valid-digit-number) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3945-digit-frequency-score) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0005-longest-palindromic-substring) |
 | [0043-multiply-strings](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0043-multiply-strings) |
+| [3894-traffic-signal-color](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3941-password-strength) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0043-multiply-strings) |
+| [3894-traffic-signal-color](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
