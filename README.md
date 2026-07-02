@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0048-rotate-image) |
+| [3925-concatenate-array-with-reverse](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0043-multiply-strings) |
+| [3925-concatenate-array-with-reverse](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
 | ------- |
