@@ -10,15 +10,4 @@ class Solution {
         }
         return arr;
     }
-    void reverse(int[] arr){
-        int l = 0;
-        int h = arr.length-1;
-        while(l<=h){
-            int t = arr[l];
-            arr[l] = arr[h];
-            arr[h] = t;
-            h--;
-            l++;
-        }
-    }
 }
