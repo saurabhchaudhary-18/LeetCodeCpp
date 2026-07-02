@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0048-rotate-image) |
+| [3903-smallest-stable-index-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3903-smallest-stable-index-i) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3912-valid-elements-in-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3912-valid-elements-in-an-array) |
 | [3917-count-indices-with-opposite-parity](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3917-count-indices-with-opposite-parity) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3903-smallest-stable-index-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3903-smallest-stable-index-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Number Theory
 |  |
