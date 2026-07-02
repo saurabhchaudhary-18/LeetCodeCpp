@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0048-rotate-image) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Two Pointers
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0015-3sum) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Sorting
 |  |
