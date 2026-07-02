@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0048-rotate-image) |
+| [3912-valid-elements-in-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3912-valid-elements-in-an-array) |
 | [3917-count-indices-with-opposite-parity](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3917-count-indices-with-opposite-parity) |
 | [3921-score-validator](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3925-concatenate-array-with-reverse) |
