@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0005-longest-palindromic-substring) |
 | [0043-multiply-strings](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0043-multiply-strings) |
+| [3931-check-adjacent-digit-differences](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3941-password-strength) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Dynamic Programming
