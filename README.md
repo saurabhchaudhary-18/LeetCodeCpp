@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0048-rotate-image) |
 | [1025-divisor-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1025-divisor-game) |
