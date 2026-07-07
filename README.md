@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0048-rotate-image) |
 | [3895-count-digit-appearances](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3895-count-digit-appearances) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0043-multiply-strings) |
 | [3884-first-matching-character-from-both-ends](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3894-traffic-signal-color) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
