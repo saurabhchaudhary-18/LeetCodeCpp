@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0048-rotate-image) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3894-traffic-signal-color](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3908-valid-digit-number) |
