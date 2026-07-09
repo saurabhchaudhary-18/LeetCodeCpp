@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0043-multiply-strings) |
+| [3856-trim-trailing-vowels](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3921-score-validator) |
