@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0048-rotate-image) |
+| [3866-first-unique-even-element](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3866-first-unique-even-element) |
 | [3895-count-digit-appearances](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3904-smallest-stable-index-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0001-two-sum) |
+| [3866-first-unique-even-element](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3866-first-unique-even-element) |
 | [3941-password-strength](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3945-digit-frequency-score) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3866-first-unique-even-element](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3866-first-unique-even-element) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Sliding Window
 |  |
