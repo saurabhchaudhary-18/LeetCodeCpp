@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0048-rotate-image) |
+| [3861-minimum-capacity-box](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3866-first-unique-even-element) |
 | [3895-count-digit-appearances](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3903-smallest-stable-index-i) |
