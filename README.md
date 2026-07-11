@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0075-sort-colors) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3819-rotate-non-negative-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3819-rotate-non-negative-elements) |
 | [3833-count-dominant-indices](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3833-count-dominant-indices) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0001-two-sum) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3866-first-unique-even-element) |
 | [3941-password-strength](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3945-digit-frequency-score) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3866-first-unique-even-element) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Sliding Window
