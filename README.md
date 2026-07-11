@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3894-traffic-signal-color](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3894-traffic-signal-color) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1025-divisor-game) |
 ## Simulation
 |  |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
