@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0066-plus-one) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3819-rotate-non-negative-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3819-rotate-non-negative-elements) |
 | [3833-count-dominant-indices](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3833-count-dominant-indices) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0066-plus-one) |
 | [1025-divisor-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3894-traffic-signal-color](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3894-traffic-signal-color) |
