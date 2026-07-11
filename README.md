@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0067-add-binary) |
 | [1025-divisor-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3894-traffic-signal-color](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3894-traffic-signal-color) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0067-add-binary) |
 | [3856-trim-trailing-vowels](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3894-traffic-signal-color) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0067-add-binary) |
 | [3819-rotate-non-negative-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3819-rotate-non-negative-elements) |
 | [3894-traffic-signal-color](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3921-score-validator) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0067-add-binary) |
 | [3827-count-monobit-integers](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3827-count-monobit-integers) |
 ## Combinatorics
 |  |
