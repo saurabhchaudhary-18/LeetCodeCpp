@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0062-unique-paths) |
 | [1025-divisor-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3894-traffic-signal-color](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3894-traffic-signal-color) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0062-unique-paths) |
 | [1025-divisor-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1025-divisor-game) |
 ## Simulation
 |  |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3827-count-monobit-integers](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3827-count-monobit-integers) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
