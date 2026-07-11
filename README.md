@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0061-rotate-list) |
 | [3884-first-matching-character-from-both-ends](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3884-first-matching-character-from-both-ends) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
