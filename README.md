@@ -330,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0148-sort-list) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
