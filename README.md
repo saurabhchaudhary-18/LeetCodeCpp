@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1331-rank-transform-of-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3866-first-unique-even-element) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0214-shortest-palindrome) |
+| [0242-valid-anagram](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0242-valid-anagram) |
 | [3856-trim-trailing-vowels](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3894-traffic-signal-color) |
