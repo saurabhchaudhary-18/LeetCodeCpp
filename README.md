@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0238-product-of-array-except-self) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1331-rank-transform-of-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0238-product-of-array-except-self) |
 | [3903-smallest-stable-index-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3904-smallest-stable-index-ii) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
