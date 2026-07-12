@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -429,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0232-implement-queue-using-stacks) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
