@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0222-count-complete-tree-nodes) |
 | [3827-count-monobit-integers](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3827-count-monobit-integers) |
 ## Combinatorics
 |  |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
