@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0088-merge-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1331-rank-transform-of-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0088-merge-sorted-array) |
 | [3884-first-matching-character-from-both-ends](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3884-first-matching-character-from-both-ends) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0088-merge-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
