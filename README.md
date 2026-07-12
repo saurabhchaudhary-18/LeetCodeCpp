@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0143-reorder-list) |
 | [3884-first-matching-character-from-both-ends](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3884-first-matching-character-from-both-ends) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0143-reorder-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0143-reorder-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0143-reorder-list) |
 ## Backtracking
 |  |
 | ------- |
