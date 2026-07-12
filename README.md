@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0234-palindrome-linked-list) |
 | [3884-first-matching-character-from-both-ends](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3884-first-matching-character-from-both-ends) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0233-number-of-digit-one) |
+| [0234-palindrome-linked-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
 | ------- |
