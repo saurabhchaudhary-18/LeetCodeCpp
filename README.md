@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0205-isomorphic-strings) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1331-rank-transform-of-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3866-first-unique-even-element) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0205-isomorphic-strings) |
 | [3856-trim-trailing-vowels](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3894-traffic-signal-color) |
