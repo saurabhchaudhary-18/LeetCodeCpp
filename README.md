@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0148-sort-list) |
 | [3884-first-matching-character-from-both-ends](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3884-first-matching-character-from-both-ends) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0148-sort-list) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0148-sort-list) |
 ## String
 |  |
 | ------- |
@@ -303,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
