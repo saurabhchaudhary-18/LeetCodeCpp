@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0231-power-of-two) |
 | [1025-divisor-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3894-traffic-signal-color](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3894-traffic-signal-color) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0231-power-of-two) |
 | [3827-count-monobit-integers](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3827-count-monobit-integers) |
 ## Combinatorics
 |  |
