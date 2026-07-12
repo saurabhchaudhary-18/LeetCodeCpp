@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1331-rank-transform-of-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1025-divisor-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3894-traffic-signal-color](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3894-traffic-signal-color) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Backtracking
 |  |
 | ------- |
