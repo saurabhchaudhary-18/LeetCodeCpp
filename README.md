@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0214-shortest-palindrome) |
 | [3856-trim-trailing-vowels](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3894-traffic-signal-color) |
@@ -360,4 +361,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0183-customers-who-never-order) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
