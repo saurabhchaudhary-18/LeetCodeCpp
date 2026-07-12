@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0135-candy) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1331-rank-transform-of-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0135-candy) |
 ## Trie
 |  |
 | ------- |
