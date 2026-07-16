@@ -1,6 +1,9 @@
 class Solution {
     public int gcdOfOddEvenSums(int n) {
-        int odd = n*n;
+        return n;
+    }
+}
+        /*int odd = n*n;
         int even = odd+n;
         return gcd(odd,even);
     }
@@ -12,5 +15,4 @@ class Solution {
             }
         }
         return ans;
-    }
-}
+    }*/
