@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0202-happy-number) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0202-happy-number) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
