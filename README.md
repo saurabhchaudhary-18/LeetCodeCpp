@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0189-rotate-array) |
@@ -375,10 +376,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0089-gray-code) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0191-number-of-1-bits) |
