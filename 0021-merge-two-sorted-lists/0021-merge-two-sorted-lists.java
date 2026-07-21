@@ -16,23 +16,37 @@ class Solution {
         if(list2==null){
             return list1;
         }
-        ListNode res = new ListNode();
-        ListNode current = res;
-        while(list1!=null && list2!=null){
-            if(list1.val<list2.val){
-                current.next = list1;
-                list1 = list1.next;
-            } else {
-                current.next = list2;
-                list2 = list2.next;
-            }
-            current = current.next;
+        int n = 0;
+        int m = 0;
+        ListNode a = list1;
+        ListNode b = list2;
+        while(a!=null){
+            a=a.next;
+            n++;
         }
-        if(list1!=null){
-            current.next = list1;
-        } else {
-            current.next = list2;
+        while(b!=null){
+            b=b.next;
+            n++;
         }
-        return res.next;
+        int[] arr = new int[n];
+        int ind = 0;
+        a=list1;
+        b=list2;
+        while(a!=null){
+            arr[ind++] = a.val;
+            a=a.next;
+        }
+        while(b!=null){
+            arr[ind++] = b.val;
+            b=b.next;
+        }
+        Arrays.sort(arr);
+        ListNode dummy = new ListNode(arr[0]);
+        ListNode res = dummy;
+        for(int i=1; i<arr.length; i++){
+            res.next = new ListNode(arr[i]);
+            res=res.next;
+        }
+        return dummy;
     }
 }
