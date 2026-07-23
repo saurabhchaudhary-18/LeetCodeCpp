@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1929-concatenation-of-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3819-rotate-non-negative-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3819-rotate-non-negative-elements) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Hash Table
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0300-longest-increasing-subsequence) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0191-number-of-1-bits) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## String
 |  |
 | ------- |
@@ -505,4 +509,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0883-projection-area-of-3d-shapes) |
+## Quickselect
+|  |
+| ------- |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 <!---LeetCode Topics End-->
