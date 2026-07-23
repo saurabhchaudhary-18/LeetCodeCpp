@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0344-reverse-string) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3884-first-matching-character-from-both-ends](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3884-first-matching-character-from-both-ends) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0344-reverse-string) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3856-trim-trailing-vowels](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3894-traffic-signal-color) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1929-concatenation-of-array) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3819-rotate-non-negative-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3819-rotate-non-negative-elements) |
 | [3894-traffic-signal-color](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3921-score-validator) |
