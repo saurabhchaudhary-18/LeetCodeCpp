@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1929-concatenation-of-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3819-rotate-non-negative-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3819-rotate-non-negative-elements) |
 | [3833-count-dominant-indices](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3833-count-dominant-indices) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Hash Table
 |  |
 | ------- |
