@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1929-concatenation-of-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3745-maximize-expression-of-three-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3745-maximize-expression-of-three-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3745-maximize-expression-of-three-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3745-maximize-expression-of-three-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Hash Table
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0204-count-primes) |
+| [3745-maximize-expression-of-three-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3745-maximize-expression-of-three-elements) |
 | [3827-count-monobit-integers](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3827-count-monobit-integers) |
 | [3833-count-dominant-indices](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3833-count-dominant-indices) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0135-candy) |
+| [3745-maximize-expression-of-three-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3745-maximize-expression-of-three-elements) |
 ## Trie
 |  |
 | ------- |
