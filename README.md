@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1929-concatenation-of-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3467-transform-array-by-parity](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3467-transform-array-by-parity) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3731-find-missing-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3467-transform-array-by-parity](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3745-maximize-expression-of-three-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0229-majority-element-ii) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [3467-transform-array-by-parity](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3467-transform-array-by-parity) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3866-first-unique-even-element](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3866-first-unique-even-element) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
