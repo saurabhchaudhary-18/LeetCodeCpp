@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0883-projection-area-of-3d-shapes) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3745-maximize-expression-of-three-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -535,4 +537,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
