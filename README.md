@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0645-set-mismatch) |
 | [0812-largest-triangle-area](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0883-projection-area-of-3d-shapes) |
+| [1124-longest-well-performing-interval](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1124-longest-well-performing-interval) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0290-word-pattern) |
 | [0645-set-mismatch](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0645-set-mismatch) |
+| [1124-longest-well-performing-interval](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1124-longest-well-performing-interval) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0238-product-of-array-except-self) |
+| [1124-longest-well-performing-interval](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1124-longest-well-performing-interval) |
 | [3903-smallest-stable-index-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3904-smallest-stable-index-ii) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0234-palindrome-linked-list) |
+| [1124-longest-well-performing-interval](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1124-longest-well-performing-interval) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Backtracking
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0084-largest-rectangle-in-histogram) |
+| [1124-longest-well-performing-interval](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1124-longest-well-performing-interval) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Tree
 |  |
