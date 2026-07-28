@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0084-largest-rectangle-in-histogram) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0149-max-points-on-a-line) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0073-set-matrix-zeroes) |
 | [0883-projection-area-of-3d-shapes](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0883-projection-area-of-3d-shapes) |
 ## Counting
 |  |
