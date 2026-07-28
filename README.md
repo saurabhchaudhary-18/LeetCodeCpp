@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0883-projection-area-of-3d-shapes) |
 | [1025-divisor-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0135-candy) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3457-eat-pizzas](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3457-eat-pizzas) |
 | [3745-maximize-expression-of-three-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3745-maximize-expression-of-three-elements) |
 ## Trie
