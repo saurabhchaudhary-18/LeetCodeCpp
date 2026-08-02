@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0645-set-mismatch) |
 | [0812-largest-triangle-area](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0883-projection-area-of-3d-shapes) |
 | [1124-longest-well-performing-interval](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1124-longest-well-performing-interval) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1331-rank-transform-of-an-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0883-projection-area-of-3d-shapes) |
 | [1025-divisor-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1025-divisor-game) |
 ## Simulation
 |  |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
