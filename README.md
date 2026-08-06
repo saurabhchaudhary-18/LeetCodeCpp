@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0883-projection-area-of-3d-shapes) |
 | [1025-divisor-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1025-divisor-game) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3658-gcd-of-odd-and-even-sums) |
