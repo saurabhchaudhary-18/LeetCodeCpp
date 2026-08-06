@@ -594,4 +594,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
