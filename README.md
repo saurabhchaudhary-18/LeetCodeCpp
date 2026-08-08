@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0344-reverse-string) |
 | [1540-can-convert-string-in-k-moves](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1540-can-convert-string-in-k-moves) |
 | [2418-sort-the-people](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2418-sort-the-people) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1929-concatenation-of-array) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3819-rotate-non-negative-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3819-rotate-non-negative-elements) |
