@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1540-can-convert-string-in-k-moves](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1540-can-convert-string-in-k-moves) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2418-sort-the-people](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0344-reverse-string) |
 | [1540-can-convert-string-in-k-moves](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1540-can-convert-string-in-k-moves) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2418-sort-the-people](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2418-sort-the-people) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0229-majority-element-ii) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3467-transform-array-by-parity](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3467-transform-array-by-parity) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3866-first-unique-even-element](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3866-first-unique-even-element) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0219-contains-duplicate-ii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Enumeration
 |  |
