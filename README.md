@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3457-eat-pizzas](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3457-eat-pizzas) |
 | [3467-transform-array-by-parity](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3467-transform-array-by-parity) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3745-maximize-expression-of-three-elements) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0645-set-mismatch) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3827-count-monobit-integers](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3827-count-monobit-integers) |
 ## Combinatorics
 |  |
