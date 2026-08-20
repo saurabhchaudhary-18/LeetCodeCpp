@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0300-longest-increasing-subsequence) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0477-total-hamming-distance](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0645-set-mismatch) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0371-sum-of-two-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0477-total-hamming-distance](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0812-largest-triangle-area) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0461-hamming-distance) |
+| [0477-total-hamming-distance](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0645-set-mismatch) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3674-minimum-operations-to-equalize-array) |
