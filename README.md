@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2418-sort-the-people](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2418-sort-the-people) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3457-eat-pizzas](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3457-eat-pizzas) |
 | [3467-transform-array-by-parity](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3467-transform-array-by-parity) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3674-minimum-operations-to-equalize-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1540-can-convert-string-in-k-moves](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1540-can-convert-string-in-k-moves) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2418-sort-the-people](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2418-sort-the-people) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
