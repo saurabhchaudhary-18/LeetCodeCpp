@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0486-predict-the-winner) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0645-set-mismatch) |
 | [0812-largest-triangle-area](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0812-largest-triangle-area) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0290-word-pattern) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0645-set-mismatch) |
 | [1124-longest-well-performing-interval](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1124-longest-well-performing-interval) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1331-rank-transform-of-an-array) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0344-reverse-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0678-valid-parenthesis-string) |
 | [1540-can-convert-string-in-k-moves](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1540-can-convert-string-in-k-moves) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
