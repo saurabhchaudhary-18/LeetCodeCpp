@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0344-reverse-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0678-valid-parenthesis-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1540-can-convert-string-in-k-moves](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1540-can-convert-string-in-k-moves) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0678-valid-parenthesis-string) |
 | [0946-validate-stack-sequences](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0946-validate-stack-sequences) |
 | [1124-longest-well-performing-interval](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1124-longest-well-performing-interval) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -666,5 +668,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0678-valid-parenthesis-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
