@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3457-eat-pizzas](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3457-eat-pizzas) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3745-maximize-expression-of-three-elements) |
 | [3827-count-monobit-integers](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3827-count-monobit-integers) |
 | [3833-count-dominant-indices](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3833-count-dominant-indices) |
