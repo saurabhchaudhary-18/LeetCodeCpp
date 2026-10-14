@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3870-count-commas-in-range) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2706-buy-two-chocolates](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2706-buy-two-chocolates) |
 | [3457-eat-pizzas](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3457-eat-pizzas) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3745-maximize-expression-of-three-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3745-maximize-expression-of-three-elements) |
 ## Trie
 |  |
