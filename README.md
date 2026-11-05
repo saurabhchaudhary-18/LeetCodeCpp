@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2706-buy-two-chocolates) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2706-buy-two-chocolates) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0229-majority-element-ii) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2351-first-letter-to-appear-twice) |
 | [3467-transform-array-by-parity](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3467-transform-array-by-parity) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3746-minimum-string-length-after-balanced-removals) |
