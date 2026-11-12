@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3457-eat-pizzas](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3457-eat-pizzas) |
 | [3467-transform-array-by-parity](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3467-transform-array-by-parity) |
