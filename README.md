@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3364-minimum-positive-sum-subarray](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3364-minimum-positive-sum-subarray) |
 | [3457-eat-pizzas](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3457-eat-pizzas) |
 | [3467-transform-array-by-parity](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0219-contains-duplicate-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3364-minimum-positive-sum-subarray](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3364-minimum-positive-sum-subarray) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Enumeration
 |  |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0238-product-of-array-except-self) |
 | [1124-longest-well-performing-interval](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1124-longest-well-performing-interval) |
+| [3364-minimum-positive-sum-subarray](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3904-smallest-stable-index-ii) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
