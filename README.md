@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3941-password-strength](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3945-digit-frequency-score) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [4104-count-valid-substrings-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/4104-count-valid-substrings-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3931-check-adjacent-digit-differences](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3941-password-strength) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
+| [4104-count-valid-substrings-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/4104-count-valid-substrings-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-count-monobit-integers](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3827-count-monobit-integers) |
 | [3833-count-dominant-indices](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3833-count-dominant-indices) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [4104-count-valid-substrings-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/4104-count-valid-substrings-ii) |
 ## Prefix Sum
 |  |
 | ------- |
