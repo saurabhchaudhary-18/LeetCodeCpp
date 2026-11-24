@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3364-minimum-positive-sum-subarray](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3457-eat-pizzas](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3457-eat-pizzas) |
 | [3467-transform-array-by-parity](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -442,12 +444,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0219-contains-duplicate-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3364-minimum-positive-sum-subarray](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3745-maximize-expression-of-three-elements](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3745-maximize-expression-of-three-elements) |
 | [3827-count-monobit-integers](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3827-count-monobit-integers) |
 | [3833-count-dominant-indices](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3833-count-dominant-indices) |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Brainteaser
