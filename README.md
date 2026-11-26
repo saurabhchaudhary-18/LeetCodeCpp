@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3360-stone-removal-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/1929-concatenation-of-array) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3360-stone-removal-game](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/saurabhchaudhary-18/LeetCodeCpp/tree/master/3775-reverse-words-with-same-vowel-count) |
